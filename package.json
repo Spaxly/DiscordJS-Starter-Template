@@ -1,0 +1,15 @@
+{
+  "name": "discordjs-starter-template",
+  "version": "1.0.0",
+  "description": "A starter DiscordJS template",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spaxly",
+  "license": "ISC"
+}
